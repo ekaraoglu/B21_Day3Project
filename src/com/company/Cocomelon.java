@@ -7,5 +7,6 @@ public class Cocomelon {
         System.out.println("Happy Holidays");
         System.out.println("See you next year");
         System.out.println("Don't worry be happy");
+        System.out.println("learning new things everyday");
     }
 }
